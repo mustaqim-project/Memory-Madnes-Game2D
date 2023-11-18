@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://dg1lhjoceulhe"]
+
+[ext_resource type="Script" path="res://image_resources/image_file_maker.gd" id="1_t3slb"]
+[ext_resource type="Resource" uid="uid://cy4wwnuba7yl6" path="res://image_resources/ImageFilesList.tres" id="2_iuiho"]
+
+[node name="ImageFileMaker" type="Node"]
+script = ExtResource("1_t3slb")
+ir = ExtResource("2_iuiho")

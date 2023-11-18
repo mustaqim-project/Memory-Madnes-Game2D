@@ -1,0 +1,13 @@
+res://assets/GM_32_Dark.tres::3f51a86227e57293c9e5fed017052b2f::1686064286::res://.godot/exported/133200997/export-0c519273de4c64554d1170f7393901f6-GM_32_Dark.res
+res://assets/GM_32_White.tres::ff2b8bacaf86ea9b82ba30df2e070d26::1686064286::res://.godot/exported/133200997/export-6d68aa1010f10b69cc0445cc424bdf25-GM_32_White.res
+res://assets/LG_84_Green.tres::e50374a454ac14cc5688058758de8f16::1686064286::res://.godot/exported/133200997/export-a67f425df96439aedeeebb21d6255414-LG_84_Green.res
+res://front_sprite/front_sprite.tscn::dd63d8fbd0a8da8d5e9a320acd71c365::1680509183::res://.godot/exported/133200997/export-d53105425b0bfada0c48c8f52746c104-front_sprite.scn
+res://game_over/game_over.tscn::7f2acaf2e75eeb90af3fc8a24d6413e9::1680595325::res://.godot/exported/133200997/export-854e5d9735e3c4bfef3a0fc298b56dd1-game_over.scn
+res://game_screen/game_screen.tscn::5356a59fa0ca0a484098d0acb8bdf880::1685346938::res://.godot/exported/133200997/export-d34dc5c2f01ca3f5f4bab4e17039efde-game_screen.scn
+res://level_button/level_button.tscn::4c23e52c7938a2ece6c4342e89ce83df::1680509183::res://.godot/exported/133200997/export-f67f68e6421e19b44f1cf81238b7e8f8-level_button.scn
+res://main_screen/main_screen.tscn::c57bf14824d77de6a75e8fa4457faf0f::1685346938::res://.godot/exported/133200997/export-8635b205f6de1fb2c9cf05e4c96a7678-main_screen.scn
+res://master_screen/master_screen.tscn::39074afa97aab4d93f9b269d2a458e8a::1686064286::res://.godot/exported/133200997/export-0e1c7ec21d7acf2f307f4e8423b10872-master_screen.scn
+res://memory_tile/memory_tile.tscn::a02c67c806677752279a040264ecd41b::1685346938::res://.godot/exported/133200997/export-6a6b0e2f0a7cf0986f8f456c870ac26c-memory_tile.scn
+res://scorer/scorer.tscn::f3a6daf92b50d01c64ef0f20284eb1be::1685346937::res://.godot/exported/133200997/export-0dab229fd1d5429c6952c896f3238e57-scorer.scn
+res://image_resources/ImageFilesList.tres::16977d9bc702129f93e38a03ca39a44c::1686067371::res://.godot/exported/133200997/export-f25179f6c43eee65d1745b01d0cb84cf-ImageFilesList.res
+res://image_resources/image_file_maker.tscn::a9895c1a3cf90b20f981bdaa1e589014::1686067756::res://.godot/exported/133200997/export-b73d928a16bc618987fc37e48e352372-image_file_maker.scn
